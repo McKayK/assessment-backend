@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "PRS Private Stock Faded Pomegranate",
+        "price": 10950,
+        "imageURL": "https://cdn.shopify.com/s/files/1/0265/6190/4699/products/0315699-4_2000x.jpg?v=1610053677"
+    },
+    {
+        "id": 2,
+        "name": "Gibson Les Paul Gold 1957",
+        "price": 185000,
+        "imageURL": "https://images.reverb.com/image/upload/s--SHvzDMsT--/f_auto,t_supersize/v1567707763/btceqofvilybqewuywsf.jpg"
+    },
+    {
+        "id": 3,
+        "name": "1968 Fender Stratocaster Jimi Hendrix",
+        "price": 2000000,
+        "imageURL": "https://financesonline.com/uploads/hendrix-1024x342.jpg"
+    }
+]
