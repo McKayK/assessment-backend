@@ -19,7 +19,7 @@ const submitHandler = (e) => {
     let imageURL = document.querySelector('#img')
 
     let bodyObj = {
-        title: title.value,
+        name: title.value,
         price: price.value,
         imageURL: imageURL.value
     }
